@@ -1,0 +1,1324 @@
+{
+  "models": [
+    {
+      "id": "e30",
+      "name": "BMW E30",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/e30.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "e36",
+      "name": "BMW E36",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/e36.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "e46",
+      "name": "BMW E46",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/e46.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "e92",
+      "name": "BMW E92",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/e92.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "f30",
+      "name": "BMW F30",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/f30.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "g20",
+      "name": "BMW G20",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/g20.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "g30",
+      "name": "BMW G30",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/g30.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "g11",
+      "name": "BMW G11",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/g11.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "e39",
+      "name": "BMW E39",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/e39.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "e90",
+      "name": "BMW E90",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/e90.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "f10",
+      "name": "BMW F10",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/f10.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "g05",
+      "name": "BMW G05",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/g05.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "i8",
+      "name": "BMW I8",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/i8.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "i3",
+      "name": "BMW I3",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/i3.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "m3",
+      "name": "BMW M3",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/m3.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "m5",
+      "name": "BMW M5",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/m5.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "x5",
+      "name": "BMW X5",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/x5.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "z8",
+      "name": "BMW Z8",
+      "series": "Various",
+      "years": "varies",
+      "image": "/assets/images/z8.jpg",
+      "specs": {
+        "engine": "varies",
+        "power": "varies"
+      }
+    },
+    {
+      "id": "auto0001",
+      "name": "BMW AUTO0001",
+      "series": "Z Series",
+      "years": "1991–1996",
+      "image": "/assets/images/auto0001.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0002",
+      "name": "BMW AUTO0002",
+      "series": "5 Series",
+      "years": "1992–1997",
+      "image": "/assets/images/auto0002.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0003",
+      "name": "BMW AUTO0003",
+      "series": "3 Series",
+      "years": "1993–1998",
+      "image": "/assets/images/auto0003.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0004",
+      "name": "BMW AUTO0004",
+      "series": "Concepts",
+      "years": "1994–1999",
+      "image": "/assets/images/auto0004.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0005",
+      "name": "BMW AUTO0005",
+      "series": "5 Series",
+      "years": "1995–2000",
+      "image": "/assets/images/auto0005.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0006",
+      "name": "BMW AUTO0006",
+      "series": "X Series",
+      "years": "1996–2001",
+      "image": "/assets/images/auto0006.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0007",
+      "name": "BMW AUTO0007",
+      "series": "6 Series",
+      "years": "1997–2002",
+      "image": "/assets/images/auto0007.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0008",
+      "name": "BMW AUTO0008",
+      "series": "2 Series",
+      "years": "1998–2003",
+      "image": "/assets/images/auto0008.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0009",
+      "name": "BMW AUTO0009",
+      "series": "4 Series",
+      "years": "1999–2004",
+      "image": "/assets/images/auto0009.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0010",
+      "name": "BMW AUTO0010",
+      "series": "i Series",
+      "years": "2000–2005",
+      "image": "/assets/images/auto0010.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0011",
+      "name": "BMW AUTO0011",
+      "series": "7 Series",
+      "years": "2001–2006",
+      "image": "/assets/images/auto0011.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0012",
+      "name": "BMW AUTO0012",
+      "series": "8 Series",
+      "years": "2002–2007",
+      "image": "/assets/images/auto0012.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0013",
+      "name": "BMW AUTO0013",
+      "series": "5 Series",
+      "years": "2003–2008",
+      "image": "/assets/images/auto0013.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0014",
+      "name": "BMW AUTO0014",
+      "series": "4 Series",
+      "years": "2004–2009",
+      "image": "/assets/images/auto0014.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0015",
+      "name": "BMW AUTO0015",
+      "series": "X Series",
+      "years": "2005–2010",
+      "image": "/assets/images/auto0015.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0016",
+      "name": "BMW AUTO0016",
+      "series": "2 Series",
+      "years": "2006–2011",
+      "image": "/assets/images/auto0016.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0017",
+      "name": "BMW AUTO0017",
+      "series": "6 Series",
+      "years": "2007–2012",
+      "image": "/assets/images/auto0017.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0018",
+      "name": "BMW AUTO0018",
+      "series": "5 Series",
+      "years": "2008–2013",
+      "image": "/assets/images/auto0018.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0019",
+      "name": "BMW AUTO0019",
+      "series": "6 Series",
+      "years": "2009–2014",
+      "image": "/assets/images/auto0019.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0020",
+      "name": "BMW AUTO0020",
+      "series": "Z Series",
+      "years": "2010–2015",
+      "image": "/assets/images/auto0020.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0021",
+      "name": "BMW AUTO0021",
+      "series": "3 Series",
+      "years": "2011–2016",
+      "image": "/assets/images/auto0021.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0022",
+      "name": "BMW AUTO0022",
+      "series": "3 Series",
+      "years": "2012–2017",
+      "image": "/assets/images/auto0022.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0023",
+      "name": "BMW AUTO0023",
+      "series": "5 Series",
+      "years": "2013–2018",
+      "image": "/assets/images/auto0023.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0024",
+      "name": "BMW AUTO0024",
+      "series": "1 Series",
+      "years": "2014–2019",
+      "image": "/assets/images/auto0024.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0025",
+      "name": "BMW AUTO0025",
+      "series": "5 Series",
+      "years": "2015–2020",
+      "image": "/assets/images/auto0025.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0026",
+      "name": "BMW AUTO0026",
+      "series": "6 Series",
+      "years": "2016–2021",
+      "image": "/assets/images/auto0026.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0027",
+      "name": "BMW AUTO0027",
+      "series": "4 Series",
+      "years": "2017–2022",
+      "image": "/assets/images/auto0027.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0028",
+      "name": "BMW AUTO0028",
+      "series": "Z Series",
+      "years": "2018–2023",
+      "image": "/assets/images/auto0028.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0029",
+      "name": "BMW AUTO0029",
+      "series": "X Series",
+      "years": "2019–2024",
+      "image": "/assets/images/auto0029.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0030",
+      "name": "BMW AUTO0030",
+      "series": "X Series",
+      "years": "1990–1995",
+      "image": "/assets/images/auto0030.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0031",
+      "name": "BMW AUTO0031",
+      "series": "Z Series",
+      "years": "1991–1996",
+      "image": "/assets/images/auto0031.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0032",
+      "name": "BMW AUTO0032",
+      "series": "M Series",
+      "years": "1992–1997",
+      "image": "/assets/images/auto0032.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0033",
+      "name": "BMW AUTO0033",
+      "series": "M Series",
+      "years": "1993–1998",
+      "image": "/assets/images/auto0033.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0034",
+      "name": "BMW AUTO0034",
+      "series": "8 Series",
+      "years": "1994–1999",
+      "image": "/assets/images/auto0034.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0035",
+      "name": "BMW AUTO0035",
+      "series": "3 Series",
+      "years": "1995–2000",
+      "image": "/assets/images/auto0035.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0036",
+      "name": "BMW AUTO0036",
+      "series": "2 Series",
+      "years": "1996–2001",
+      "image": "/assets/images/auto0036.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0037",
+      "name": "BMW AUTO0037",
+      "series": "8 Series",
+      "years": "1997–2002",
+      "image": "/assets/images/auto0037.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0038",
+      "name": "BMW AUTO0038",
+      "series": "8 Series",
+      "years": "1998–2003",
+      "image": "/assets/images/auto0038.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0039",
+      "name": "BMW AUTO0039",
+      "series": "3 Series",
+      "years": "1999–2004",
+      "image": "/assets/images/auto0039.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0040",
+      "name": "BMW AUTO0040",
+      "series": "i Series",
+      "years": "2000–2005",
+      "image": "/assets/images/auto0040.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0041",
+      "name": "BMW AUTO0041",
+      "series": "Concepts",
+      "years": "2001–2006",
+      "image": "/assets/images/auto0041.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0042",
+      "name": "BMW AUTO0042",
+      "series": "4 Series",
+      "years": "2002–2007",
+      "image": "/assets/images/auto0042.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0043",
+      "name": "BMW AUTO0043",
+      "series": "M Series",
+      "years": "2003–2008",
+      "image": "/assets/images/auto0043.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0044",
+      "name": "BMW AUTO0044",
+      "series": "1 Series",
+      "years": "2004–2009",
+      "image": "/assets/images/auto0044.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0045",
+      "name": "BMW AUTO0045",
+      "series": "7 Series",
+      "years": "2005–2010",
+      "image": "/assets/images/auto0045.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0046",
+      "name": "BMW AUTO0046",
+      "series": "8 Series",
+      "years": "2006–2011",
+      "image": "/assets/images/auto0046.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0047",
+      "name": "BMW AUTO0047",
+      "series": "1 Series",
+      "years": "2007–2012",
+      "image": "/assets/images/auto0047.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0048",
+      "name": "BMW AUTO0048",
+      "series": "M Series",
+      "years": "2008–2013",
+      "image": "/assets/images/auto0048.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0049",
+      "name": "BMW AUTO0049",
+      "series": "6 Series",
+      "years": "2009–2014",
+      "image": "/assets/images/auto0049.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0050",
+      "name": "BMW AUTO0050",
+      "series": "7 Series",
+      "years": "2010–2015",
+      "image": "/assets/images/auto0050.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0051",
+      "name": "BMW AUTO0051",
+      "series": "1 Series",
+      "years": "2011–2016",
+      "image": "/assets/images/auto0051.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0052",
+      "name": "BMW AUTO0052",
+      "series": "X Series",
+      "years": "2012–2017",
+      "image": "/assets/images/auto0052.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0053",
+      "name": "BMW AUTO0053",
+      "series": "5 Series",
+      "years": "2013–2018",
+      "image": "/assets/images/auto0053.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0054",
+      "name": "BMW AUTO0054",
+      "series": "5 Series",
+      "years": "2014–2019",
+      "image": "/assets/images/auto0054.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0055",
+      "name": "BMW AUTO0055",
+      "series": "5 Series",
+      "years": "2015–2020",
+      "image": "/assets/images/auto0055.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0056",
+      "name": "BMW AUTO0056",
+      "series": "6 Series",
+      "years": "2016–2021",
+      "image": "/assets/images/auto0056.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0057",
+      "name": "BMW AUTO0057",
+      "series": "7 Series",
+      "years": "2017–2022",
+      "image": "/assets/images/auto0057.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0058",
+      "name": "BMW AUTO0058",
+      "series": "Z Series",
+      "years": "2018–2023",
+      "image": "/assets/images/auto0058.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0059",
+      "name": "BMW AUTO0059",
+      "series": "i Series",
+      "years": "2019–2024",
+      "image": "/assets/images/auto0059.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0060",
+      "name": "BMW AUTO0060",
+      "series": "M Series",
+      "years": "1990–1995",
+      "image": "/assets/images/auto0060.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0061",
+      "name": "BMW AUTO0061",
+      "series": "7 Series",
+      "years": "1991–1996",
+      "image": "/assets/images/auto0061.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0062",
+      "name": "BMW AUTO0062",
+      "series": "6 Series",
+      "years": "1992–1997",
+      "image": "/assets/images/auto0062.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0063",
+      "name": "BMW AUTO0063",
+      "series": "6 Series",
+      "years": "1993–1998",
+      "image": "/assets/images/auto0063.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0064",
+      "name": "BMW AUTO0064",
+      "series": "7 Series",
+      "years": "1994–1999",
+      "image": "/assets/images/auto0064.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0065",
+      "name": "BMW AUTO0065",
+      "series": "7 Series",
+      "years": "1995–2000",
+      "image": "/assets/images/auto0065.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0066",
+      "name": "BMW AUTO0066",
+      "series": "2 Series",
+      "years": "1996–2001",
+      "image": "/assets/images/auto0066.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0067",
+      "name": "BMW AUTO0067",
+      "series": "M Series",
+      "years": "1997–2002",
+      "image": "/assets/images/auto0067.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0068",
+      "name": "BMW AUTO0068",
+      "series": "2 Series",
+      "years": "1998–2003",
+      "image": "/assets/images/auto0068.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0069",
+      "name": "BMW AUTO0069",
+      "series": "X Series",
+      "years": "1999–2004",
+      "image": "/assets/images/auto0069.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0070",
+      "name": "BMW AUTO0070",
+      "series": "Concepts",
+      "years": "2000–2005",
+      "image": "/assets/images/auto0070.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0071",
+      "name": "BMW AUTO0071",
+      "series": "X Series",
+      "years": "2001–2006",
+      "image": "/assets/images/auto0071.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0072",
+      "name": "BMW AUTO0072",
+      "series": "X Series",
+      "years": "2002–2007",
+      "image": "/assets/images/auto0072.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0073",
+      "name": "BMW AUTO0073",
+      "series": "3 Series",
+      "years": "2003–2008",
+      "image": "/assets/images/auto0073.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0074",
+      "name": "BMW AUTO0074",
+      "series": "5 Series",
+      "years": "2004–2009",
+      "image": "/assets/images/auto0074.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0075",
+      "name": "BMW AUTO0075",
+      "series": "6 Series",
+      "years": "2005–2010",
+      "image": "/assets/images/auto0075.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0076",
+      "name": "BMW AUTO0076",
+      "series": "i Series",
+      "years": "2006–2011",
+      "image": "/assets/images/auto0076.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0077",
+      "name": "BMW AUTO0077",
+      "series": "i Series",
+      "years": "2007–2012",
+      "image": "/assets/images/auto0077.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0078",
+      "name": "BMW AUTO0078",
+      "series": "2 Series",
+      "years": "2008–2013",
+      "image": "/assets/images/auto0078.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0079",
+      "name": "BMW AUTO0079",
+      "series": "5 Series",
+      "years": "2009–2014",
+      "image": "/assets/images/auto0079.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0080",
+      "name": "BMW AUTO0080",
+      "series": "2 Series",
+      "years": "2010–2015",
+      "image": "/assets/images/auto0080.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0081",
+      "name": "BMW AUTO0081",
+      "series": "7 Series",
+      "years": "2011–2016",
+      "image": "/assets/images/auto0081.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0082",
+      "name": "BMW AUTO0082",
+      "series": "3 Series",
+      "years": "2012–2017",
+      "image": "/assets/images/auto0082.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0083",
+      "name": "BMW AUTO0083",
+      "series": "6 Series",
+      "years": "2013–2018",
+      "image": "/assets/images/auto0083.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0084",
+      "name": "BMW AUTO0084",
+      "series": "8 Series",
+      "years": "2014–2019",
+      "image": "/assets/images/auto0084.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0085",
+      "name": "BMW AUTO0085",
+      "series": "Z Series",
+      "years": "2015–2020",
+      "image": "/assets/images/auto0085.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0086",
+      "name": "BMW AUTO0086",
+      "series": "2 Series",
+      "years": "2016–2021",
+      "image": "/assets/images/auto0086.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0087",
+      "name": "BMW AUTO0087",
+      "series": "i Series",
+      "years": "2017–2022",
+      "image": "/assets/images/auto0087.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0088",
+      "name": "BMW AUTO0088",
+      "series": "8 Series",
+      "years": "2018–2023",
+      "image": "/assets/images/auto0088.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0089",
+      "name": "BMW AUTO0089",
+      "series": "6 Series",
+      "years": "2019–2024",
+      "image": "/assets/images/auto0089.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0090",
+      "name": "BMW AUTO0090",
+      "series": "1 Series",
+      "years": "1990–1995",
+      "image": "/assets/images/auto0090.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0091",
+      "name": "BMW AUTO0091",
+      "series": "Z Series",
+      "years": "1991–1996",
+      "image": "/assets/images/auto0091.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0092",
+      "name": "BMW AUTO0092",
+      "series": "5 Series",
+      "years": "1992–1997",
+      "image": "/assets/images/auto0092.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0093",
+      "name": "BMW AUTO0093",
+      "series": "i Series",
+      "years": "1993–1998",
+      "image": "/assets/images/auto0093.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0094",
+      "name": "BMW AUTO0094",
+      "series": "Concepts",
+      "years": "1994–1999",
+      "image": "/assets/images/auto0094.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0095",
+      "name": "BMW AUTO0095",
+      "series": "1 Series",
+      "years": "1995–2000",
+      "image": "/assets/images/auto0095.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0096",
+      "name": "BMW AUTO0096",
+      "series": "Z Series",
+      "years": "1996–2001",
+      "image": "/assets/images/auto0096.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    },
+    {
+      "id": "auto0097",
+      "name": "BMW AUTO0097",
+      "series": "5 Series",
+      "years": "1997–2002",
+      "image": "/assets/images/auto0097.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "200 hp"
+      }
+    },
+    {
+      "id": "auto0098",
+      "name": "BMW AUTO0098",
+      "series": "2 Series",
+      "years": "1998–2003",
+      "image": "/assets/images/auto0098.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "250 hp"
+      }
+    },
+    {
+      "id": "auto0099",
+      "name": "BMW AUTO0099",
+      "series": "4 Series",
+      "years": "1999–2004",
+      "image": "/assets/images/auto0099.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "300 hp"
+      }
+    },
+    {
+      "id": "auto0100",
+      "name": "BMW AUTO0100",
+      "series": "Concepts",
+      "years": "2000–2005",
+      "image": "/assets/images/auto0100.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "350 hp"
+      }
+    },
+    {
+      "id": "auto0101",
+      "name": "BMW AUTO0101",
+      "series": "X Series",
+      "years": "2001–2006",
+      "image": "/assets/images/auto0101.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "400 hp"
+      }
+    },
+    {
+      "id": "auto0102",
+      "name": "BMW AUTO0102",
+      "series": "Concepts",
+      "years": "2002–2007",
+      "image": "/assets/images/auto0102.jpg",
+      "specs": {
+        "engine": "I4",
+        "power": "150 hp"
+      }
+    }
+  ]
+}

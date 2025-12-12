@@ -1,0 +1,722 @@
+[
+  {
+    "id": "Style_403M",
+    "images": [
+      "/assets/wheels/Style_403M/Style_403M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_351M",
+    "images": [
+      "/assets/wheels/Style_351M/Style_351M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_437M",
+    "images": [
+      "/assets/wheels/Style_437M/Style_437M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_826M",
+    "images": [
+      "/assets/wheels/Style_826M/Style_826M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_863M",
+    "images": [
+      "/assets/wheels/Style_863M/Style_863M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_780",
+    "images": [
+      "/assets/wheels/Style_780/Style_780.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_792M",
+    "images": [
+      "/assets/wheels/Style_792M/Style_792M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_791M",
+    "images": [
+      "/assets/wheels/Style_791M/Style_791M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_793I",
+    "images": [
+      "/assets/wheels/Style_793I/Style_793I.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_634",
+    "images": [
+      "/assets/wheels/Style_634/Style_634.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_635",
+    "images": [
+      "/assets/wheels/Style_635/Style_635.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_664M",
+    "images": [
+      "/assets/wheels/Style_664M/Style_664M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_662M",
+    "images": [
+      "/assets/wheels/Style_662M/Style_662M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_759I",
+    "images": [
+      "/assets/wheels/Style_759I/Style_759I.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_846M",
+    "images": [
+      "/assets/wheels/Style_846M/Style_846M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_847M",
+    "images": [
+      "/assets/wheels/Style_847M/Style_847M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_903",
+    "images": [
+      "/assets/wheels/Style_903/Style_903.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_905",
+    "images": [
+      "/assets/wheels/Style_905/Style_905.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_909",
+    "images": [
+      "/assets/wheels/Style_909/Style_909.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_910I",
+    "images": [
+      "/assets/wheels/Style_910I/Style_910I.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_912I",
+    "images": [
+      "/assets/wheels/Style_912I/Style_912I.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_913M",
+    "images": [
+      "/assets/wheels/Style_913M/Style_913M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_826",
+    "images": [
+      "/assets/wheels/Style_826/Style_826.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_945",
+    "images": [
+      "/assets/wheels/Style_945/Style_945.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_946",
+    "images": [
+      "/assets/wheels/Style_946/Style_946.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_433M",
+    "images": [
+      "/assets/wheels/Style_433M/Style_433M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_661M",
+    "images": [
+      "/assets/wheels/Style_661M/Style_661M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_730",
+    "images": [
+      "/assets/wheels/Style_730/Style_730.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_780M",
+    "images": [
+      "/assets/wheels/Style_780M/Style_780M.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_788",
+    "images": [
+      "/assets/wheels/Style_788/Style_788.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_789",
+    "images": [
+      "/assets/wheels/Style_789/Style_789.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_790",
+    "images": [
+      "/assets/wheels/Style_790/Style_790.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_794",
+    "images": [
+      "/assets/wheels/Style_794/Style_794.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_795",
+    "images": [
+      "/assets/wheels/Style_795/Style_795.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_796",
+    "images": [
+      "/assets/wheels/Style_796/Style_796.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_797",
+    "images": [
+      "/assets/wheels/Style_797/Style_797.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_798",
+    "images": [
+      "/assets/wheels/Style_798/Style_798.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_799",
+    "images": [
+      "/assets/wheels/Style_799/Style_799.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_800",
+    "images": [
+      "/assets/wheels/Style_800/Style_800.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_801",
+    "images": [
+      "/assets/wheels/Style_801/Style_801.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto041",
+    "images": [
+      "/assets/wheels/Style_auto041/Style_auto041.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto042",
+    "images": [
+      "/assets/wheels/Style_auto042/Style_auto042.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto043",
+    "images": [
+      "/assets/wheels/Style_auto043/Style_auto043.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto044",
+    "images": [
+      "/assets/wheels/Style_auto044/Style_auto044.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto045",
+    "images": [
+      "/assets/wheels/Style_auto045/Style_auto045.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto046",
+    "images": [
+      "/assets/wheels/Style_auto046/Style_auto046.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto047",
+    "images": [
+      "/assets/wheels/Style_auto047/Style_auto047.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto048",
+    "images": [
+      "/assets/wheels/Style_auto048/Style_auto048.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto049",
+    "images": [
+      "/assets/wheels/Style_auto049/Style_auto049.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto050",
+    "images": [
+      "/assets/wheels/Style_auto050/Style_auto050.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto051",
+    "images": [
+      "/assets/wheels/Style_auto051/Style_auto051.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto052",
+    "images": [
+      "/assets/wheels/Style_auto052/Style_auto052.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto053",
+    "images": [
+      "/assets/wheels/Style_auto053/Style_auto053.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto054",
+    "images": [
+      "/assets/wheels/Style_auto054/Style_auto054.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto055",
+    "images": [
+      "/assets/wheels/Style_auto055/Style_auto055.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto056",
+    "images": [
+      "/assets/wheels/Style_auto056/Style_auto056.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto057",
+    "images": [
+      "/assets/wheels/Style_auto057/Style_auto057.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto058",
+    "images": [
+      "/assets/wheels/Style_auto058/Style_auto058.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto059",
+    "images": [
+      "/assets/wheels/Style_auto059/Style_auto059.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  },
+  {
+    "id": "Style_auto060",
+    "images": [
+      "/assets/wheels/Style_auto060/Style_auto060.png"
+    ],
+    "sizes": [
+      "18",
+      "19"
+    ],
+    "type": "Alloy",
+    "compatible": "all models"
+  }
+]
